@@ -1,0 +1,6 @@
+langchain
+langchain-core
+langchain-openai
+langsmith
+python-dotenv
+streamlit
